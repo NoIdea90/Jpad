@@ -1,2 +1,3 @@
 # Jpad
-cool pad with cool keys
+runs on kmk, case made wiith fusion360, schematics/pcb made with kicad
+
