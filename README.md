@@ -6,6 +6,7 @@ Is a cute lil macropad with 9 keys, 1 rotary encoder, and 1 oled screen.
 # challenge
 Jpad was made with exactly 0 experience in anything, coding, 3d modeling, schematics, pcb, none.
 so naturally that led to me remaking the pcb about a million times from scratch, also the case
+but it was definetly a fun learning experience that i gained a lot from, like how to use fusion360, make a pcb/schematic, python.
 
 # features
 An awesome design 
@@ -38,6 +39,6 @@ i alt f4 alot so thats fun
 # schematics!!!!
 <img width="632" height="575" alt="Jpad schematics" src="https://github.com/user-attachments/assets/f6e678ca-6bb9-4030-bda9-d9af6194f230" />
 
-and this project is defo not over, i have so much more stuff i wanna do to it oncce i actually get my hands on it.
+and this project is defo not over, i have so much more stuff i wanna do to it once i actually get my hands on it.
 
 
