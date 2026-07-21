@@ -37,7 +37,7 @@ i alt f4 alot so thats fun
 <img width="653" height="642" alt="Jpad pcb" src="https://github.com/user-attachments/assets/b5277b6c-0eb8-4853-b38c-20695bc8a550" />
 
 # schematics!!!!
-<img width="632" height="575" alt="Jpad schematics" src="https://github.com/user-attachments/assets/f6e678ca-6bb9-4030-bda9-d9af6194f230" />
+<img width="803" height="617" alt="image" src="https://github.com/user-attachments/assets/f73e99f1-552c-4d4d-a358-0174150c17b6" />
 
 and this project is defo not over, i have so much more stuff i wanna do to it once i actually get my hands on it.
 
