@@ -31,6 +31,8 @@ One EC11 rotary encoder with a switch
 
 4x M3 screws
 
+1x EC11 Rotary encoder
+
 # My use for it
 i alt f4 alot so thats fun
 
