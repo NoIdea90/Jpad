@@ -18,6 +18,8 @@ An OLED display that is currently very boring but i have some plans for it
 
 One EC11 rotary encoder with a switch
 
+and ofc the diode window for a little ✨bedazzle✨
+
 # BOM 
 9x Cherry MX switches
 
