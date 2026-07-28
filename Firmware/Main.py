@@ -17,7 +17,7 @@ keyboard = KMKKeyboard()
  i2c_bus = busio.I2C(board.D3, board.D2)
  def  custom_oled_text():
      lines = [
-     "   HACKPAD V1  ",
+     "   JPAD   ",
      "---------------",
      f"layer: {keyboard.active_layers[0]}",
      "status: active"
