@@ -1,3 +1,4 @@
+
 # Jpad
 Is a cute lil macropad with 9 keys, 1 rotary encoder, and 1 oled screen.
 
@@ -39,10 +40,7 @@ and ofc the diode window for a little ✨bedazzle✨
 i alt f4 alot so thats fun
 
 # pcb!!!!!
-<img width="414" height="703" alt="Copied_Item_1786680754519" src="https://github.com/user-attachments/assets/8e7ed3bf-3259-4855-9935-6714d7109221" />
-
-
-
+<img width="3284" height="3564" alt="Screenshot_20260814_065229_Samsung Browser" src="https://github.com/user-attachments/assets/2bf5969e-2f4a-44ee-ba92-ff9811b938b7" />
 
 # schematics!!!!
 <img width="803" height="617" alt="image" src="https://github.com/user-attachments/assets/f73e99f1-552c-4d4d-a358-0174150c17b6" />
