@@ -39,7 +39,10 @@ and ofc the diode window for a little ✨bedazzle✨
 i alt f4 alot so thats fun
 
 # pcb!!!!!
-<img width="653" height="642" alt="Jpad pcb" src="https://github.com/user-attachments/assets/b5277b6c-0eb8-4853-b38c-20695bc8a550" />
+<img width="414" height="703" alt="Copied_Item_1786680754519" src="https://github.com/user-attachments/assets/8e7ed3bf-3259-4855-9935-6714d7109221" />
+
+
+
 
 # schematics!!!!
 <img width="803" height="617" alt="image" src="https://github.com/user-attachments/assets/f73e99f1-552c-4d4d-a358-0174150c17b6" />
